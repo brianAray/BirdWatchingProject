@@ -1,6 +1,6 @@
 # Bird Watching Assignment
 
->For this assignment, as an individual you must create the contents for a homepage of a bird watching website and generate the structural elements along with CSS styling. You can work together but each of you need to have made a webpage
+>For this assignment, as an individual you must create the contents for a homepage of a bird watching website and generate the structural elements along with CSS styling. You can work together but each of you need to have made a webpage. It does not need to be hosted on a webpage or server.
 
 ### Requirements:
 
